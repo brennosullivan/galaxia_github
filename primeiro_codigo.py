@@ -1,6 +1,3 @@
-print("qualquer coisa")
+a = 2
 
-print("nova versão")
-
-
-print("qual quer coisa dois")
+print("Essa linha foi modificada no ramo teste")
