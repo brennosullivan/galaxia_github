@@ -1,3 +1,4 @@
-a = 2
+b = 5
 
-print("Essa linha foi modificada no ramo teste")
+
+print("Essa linha mudou no ramo teste")
